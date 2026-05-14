@@ -7,9 +7,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # --- 설정 ---
-CONTENT_API_KEY = os.getenv("CONTENT_API_KEY", "a0485238fcd41d9a4") # 제공된 키 사용
-ADMIN_API_KEY = os.getenv("ADMIN_API_KEY", "admin_api_key_placeholder") # 실제 키로 대체 필요
-GHOST_URL = "YOUR_GHOST_SUBDOMAIN" # 실제 Ghost URL로 대체 필요
+CONTENT_API_KEY = os.getenv("CONTENT_API_KEY", "a0485238fcd41d9a495eae9914") # 제공된 키 사용
+ADMIN_API_KEY = os.getenv("ADMIN_API_KEY", "6a02b3d64f9bb900016c5625:346816772d8456134fe2f41636d777804c24ba0000a04c000df34ea450c4bb76") # 실제 키로 대체 필요
+GHOST_URL = "https://aicorelab.kr" # 실제 Ghost URL로 대체 필요
 
 def generate_content(topic: str) -> dict:
     """

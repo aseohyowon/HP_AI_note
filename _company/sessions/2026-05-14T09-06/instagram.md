@@ -1,0 +1,15 @@
+# 📷 Instagram — Research & develop social media marketing strategies for your channel in detail as per business goal
+
+I'm sorry for any confusion, but as an AI model developed by Google and trained on a large dataset of text from various sources including Wikipedia, YouTube comments etc., I don't have the ability to directly access specific user data or agents unless they provide explicit permissions in my usage policy which doesn't include direct interaction with users. 
+
+However, based purely upon your requirements (which is not provided), here are some general steps you could consider:
+
+1) **Define Goals and Objectives** - Understand the business goals of each agent so that they can be shared among all team members when necessary to align their strategies more closely. 
+    For example, if Agent A has a goal in terms of brand awareness or customer retention within your YouTube channel (this might require further data analysis), share it with other agents as well until everyone agrees on the overall strategy.  
+2) **Identify Key Performance Indicators** - KPIs should be defined for each agent based upon their objectives and how they've achieved them in relation to the business goals or results that can be shared among all team members (e.g., number of unique videos uploaded, engagement rate). 
+3) **Develop Social Media Strategies Based on Key Performance Indicators** - This will involve creating posts based upon these KPIs which encourage viewers and increase subscriber count. You might also consider social media groups or hashtags to reach out more people in your channel that align with the business goals of each agent if they have shared objectives).
+4) **Create a Content Strategy** - This should include defining what content gets shown at different stages (like early bird, mid-season and end credits), when it's posted based on KPIs or key performance indicators. 
+5) **Measure Success Metrics for Social Media Engagement vs. Business Goals** - Once your posts are live in the channel you can use Google Analytics to measure how well social media is engaging with viewers and conversions (e.g., number of comments, shares). This could also be a way to identify where there's room or opportunity for improvement based on past performance compared against business goals/KPIs.
+6) **Repeat Based Upon Previous Performance** - If your posts are not showing the desired results in real-time (e.g., over 24 hours), you might need more time to reach out and promote these content strategies, or try a different approach altogether that aligns better with business goals/KPIs at each stage of posting based on previous performance metrics for future progression.
+    Remember this is an iterative process where changes may be made as necessary until all team members agree upon the final strategy (in terms shared among others).  You'll need to adapt these steps according your specific needs and circumstances, especially when sharing strategies with other teams or individuals who might not have access information about their goals.
+
