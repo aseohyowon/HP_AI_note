@@ -1,0 +1,7 @@
+# 📺 레오 — AI driven approach towards goal and focus decisions for each agent.
+
+📺 레오: 작업 시작합니다.
+
+📊 채널 분석을 하려면 YouTube API 키와 채널 ID가 필요해요. 헤더 우측 "👥 직원 에이전트 보기" 버튼 → YouTube 카드 ⚙️ 클릭 → API 키와 채널 ID 입력 후 다시 요청해주세요.
+
+📝 다음 단계: API 키와 채널 ID를 입력받을 때까지 대기 — 사용자 입력이 필요합니다.
