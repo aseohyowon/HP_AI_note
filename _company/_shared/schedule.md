@@ -1,23 +1,23 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 5. 15. 오후 2:46:56_
+_업데이트: 2026. 5. 15. 오후 3:43:01_
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
-- [2026-05-14] Create or update the YouTubechannel's content strategy → 산출물 sessions/2026-05-14T09-06/youtube.md
 - [2026-05-15] AI Development: Optimize Memory Management and Create New Opportunity → 산출물 sessions/2026-05-15T01-22/youtube.md
 - [2026-05-15] YouTube을 50%~100% Operational → 산출물 sessions/2026-05-15T02-07/youtube.md
+- [2026-05-15] 'Increase viewership on our YouTube channel by over one million' → 산출물 sessions/2026-05-15T06-09/youtube.md
 ### 📷 Instagram
-- [2026-05-14] Research & develop social media marketing strategies for your channel in detail as per business goal → 산출물 sessions/2026-05-14T09-06/instagram.md
 - [2026-05-15] Insta Strategy for Memorization → 산출물 sessions/2026-05-15T01-22/instagram.md
 - [2026-05-15] Instagram과 YouTube의 Data Sync → 산출물 sessions/2026-05-15T02-07/instagram.md
+- [2026-05-15] [Inst] 'Update my Instagram feed with engaging content and trending topics for the best possible results' → 산출물 sessions/2026-05-15T06-09/instagram.md
 ### 🎨 Designer
-- [2026-05-15] Create visuals that represent recent trends → 산출물 sessions/2026-05-15T02-22/designer.md
 - [2026-05-15] 'Identify relevant agents that could be further consulted' → 산출물 sessions/2026-05-15T02-37/designer.md
 - [2026-05-15] Design a new logo and branding strategy → 산출물 sessions/2026-05-15T05-09/designer.md
+- [2026-05-15] 데이터 수집, DB Schema Design → 산출물 sessions/2026-05-15T06-24/designer.md
 ### 💻 코다리
-- [2026-05-15] Develop an engaging script on Instagram that reaches out regularly → 산출물 sessions/2026-05-15T00-22/developer.md
 - [2026-05-15] Implement user authentication system for all agents in multi-language versions. → 산출물 sessions/2026-05-15T02-22/developer.md
 - [2026-05-15] Ensure that all code, scripts & visuals meet standards → 산출물 sessions/2026-05-15T05-09/developer.md
+- [2026-05-15] AI Model Training and Validation Scripts → 자격증명 부족으로 차단됨
 ### 💼 현빈
 - [2026-05-14] 블로그 자동화 도입 시 예상되는 수익화 기회, 필요한 초기 투자 비용, 그리고 KPI 설정에 대한 비즈니스 전략 프레임워크를 제안해줘 → 산출물 sessions/2026-05-14T06-10/business.md
 - [2026-05-14] Develop the KPIs related to user satisfaction, churn rate or revenue generation. This will be done by one agent only at a time. → 산출물 sessions/2026-05-14T09-36/business.md
