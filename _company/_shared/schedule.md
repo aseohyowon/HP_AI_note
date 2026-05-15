@@ -1,5 +1,5 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 5. 15. 오전 11:15:02_
+_업데이트: 2026. 5. 15. 오전 11:44:26_
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
@@ -11,17 +11,17 @@ _업데이트: 2026. 5. 15. 오전 11:15:02_
 - [2026-05-15] Insta Strategy for Memorization → 산출물 sessions/2026-05-15T01-22/instagram.md
 - [2026-05-15] Instagram과 YouTube의 Data Sync → 산출물 sessions/2026-05-15T02-07/instagram.md
 ### 🎨 Designer
-- [2026-05-14] _Data Collection for _agents/{id}_ at 1in company over the past two days, considering their personal goals → 산출물 sessions/2026-05-14T09-21/designer.md
-- [2026-05-14] Create visual assets for our brand, slogans and marketing materials → 산출물 sessions/2026-05-14T09-36/designer.md
 - [2026-05-14] Create a new design for the website → 산출물 sessions/2026-05-14T09-51/designer.md
+- [2026-05-15] Create visuals that represent recent trends → 산출물 sessions/2026-05-15T02-22/designer.md
+- [2026-05-15] 'Identify relevant agents that could be further consulted' → 산출물 sessions/2026-05-15T02-37/designer.md
 ### 💻 코다리
-- [2026-05-14] Develop the user interface of YouTube using multi-platform frameworks like React Native or Flutter. This will be used by one agent only at a time. → 산출물 sessions/2026-05-14T09-36/developer.md
 - [2026-05-14] Fix bugs in my current code and make improvements. → 자격증명 부족으로 차단됨
 - [2026-05-15] Develop an engaging script on Instagram that reaches out regularly → 산출물 sessions/2026-05-15T00-22/developer.md
+- [2026-05-15] Implement user authentication system for all agents in multi-language versions. → 산출물 sessions/2026-05-15T02-22/developer.md
 ### 💼 현빈
-- [2026-05-14] 현빈아, 이번 달 PayPal 매출 실데이터 가져와서 분석하고 다음 액션 1개 추천해줘. → 산출물 sessions/2026-05-14T06-10/business.md
 - [2026-05-14] 블로그 자동화 도입 시 예상되는 수익화 기회, 필요한 초기 투자 비용, 그리고 KPI 설정에 대한 비즈니스 전략 프레임워크를 제안해줘 → 산출물 sessions/2026-05-14T06-10/business.md
 - [2026-05-14] Develop the KPIs related to user satisfaction, churn rate or revenue generation. This will be done by one agent only at a time. → 산출물 sessions/2026-05-14T09-36/business.md
+- [2026-05-15] Assess current goals → 산출물 sessions/2026-05-15T02-37/business.md
 ### 📱 영숙
 - [2026-05-14] 현재 진행 중인 업무 목록과 주요 프로젝트 현황을 요약하여 보고할 준비를 합니다. → 산출물 sessions/2026-05-14T05-11/secretary.md
 ### ✍️ Writer
