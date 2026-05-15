@@ -1,14 +1,15 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 5. 15. 오전 9:37:16_
+_업데이트: 2026. 5. 15. 오전 11:15:02_
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
-- [2026-05-14] AI driven approach towards goal and focus decisions for each agent. → 자격증명 부족으로 차단됨
-- [2026-05-14] Strategize and execute one single task that aligns with our company's goals, personal objectives _agents/{id}/goal.md → 산출물 sessions/2026-05-14T08-51/youtube.md
 - [2026-05-14] Create or update the YouTubechannel's content strategy → 산출물 sessions/2026-05-14T09-06/youtube.md
+- [2026-05-15] AI Development: Optimize Memory Management and Create New Opportunity → 산출물 sessions/2026-05-15T01-22/youtube.md
+- [2026-05-15] YouTube을 50%~100% Operational → 산출물 sessions/2026-05-15T02-07/youtube.md
 ### 📷 Instagram
-- [2026-05-14] Understand the most valuable part of each agent’s memory on Day24. → 산출물 sessions/2026-05-14T08-51/instagram.md
 - [2026-05-14] Research & develop social media marketing strategies for your channel in detail as per business goal → 산출물 sessions/2026-05-14T09-06/instagram.md
+- [2026-05-15] Insta Strategy for Memorization → 산출물 sessions/2026-05-15T01-22/instagram.md
+- [2026-05-15] Instagram과 YouTube의 Data Sync → 산출물 sessions/2026-05-15T02-07/instagram.md
 ### 🎨 Designer
 - [2026-05-14] _Data Collection for _agents/{id}_ at 1in company over the past two days, considering their personal goals → 산출물 sessions/2026-05-14T09-21/designer.md
 - [2026-05-14] Create visual assets for our brand, slogans and marketing materials → 산출물 sessions/2026-05-14T09-36/designer.md
