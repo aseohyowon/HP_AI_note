@@ -1,0 +1,10 @@
+# 📋 작업 브리프
+
+**원 명령:** [자율 사이클 — 2026-05-15] 1인 기업 24시간 운영 중. 회사 목표·각 에이전트의 개인 목표(_agents/{id}/goal.md)·최근 의사결정·메모리를 검토해서 지금 가장 가치 있는 단일 작업 1개를 결정하고, 적절한 1~2명 에이전트에게 분배해서 실행하세요. 같은 산출물을 반복하지 마세요 — 메모리에 비슷한 항목이 24시간 내에 있으면 다른 각도로 진전시키세요.
+
+## 요약
+[2026-05-15] AI CoreLab is operating for the first time in a new environment.
+
+## 분배
+- **📺 레오**: Strategize and execute one task that fits my purpose best, ensuring I am delivering it to relevant agents within 24 hours.
+- **📷 Instagram**: Create or revise the goal document for each of me. Ensure all tasks are executed by suitable individuals in accordance with their individual goals.

@@ -1,29 +1,30 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 5. 15. 오후 3:43:01_
+_업데이트: 2026. 5. 17. 오후 4:33:11_
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
-- [2026-05-15] AI Development: Optimize Memory Management and Create New Opportunity → 산출물 sessions/2026-05-15T01-22/youtube.md
-- [2026-05-15] YouTube을 50%~100% Operational → 산출물 sessions/2026-05-15T02-07/youtube.md
-- [2026-05-15] 'Increase viewership on our YouTube channel by over one million' → 산출물 sessions/2026-05-15T06-09/youtube.md
+- [2026-05-15] 모호함 30% → 산출물 sessions/2026-05-15T16-43/youtube.md
+- [2026-05-15] Collect more views on a unique piece of content (e.g., 'Best AI Tricks', or similar topics). Divide and conquer the tasks in our minds. → 산출물 sessions/2026-05-15T18-28/youtube.md
+- [2026-05-17] Identify the right KPIs to focus on for YouTube, focusing more upon Engagement (%) than Views or Comments → 자격증명 부족으로 차단됨
 ### 📷 Instagram
-- [2026-05-15] Insta Strategy for Memorization → 산출물 sessions/2026-05-15T01-22/instagram.md
-- [2026-05-15] Instagram과 YouTube의 Data Sync → 산출물 sessions/2026-05-15T02-07/instagram.md
-- [2026-05-15] [Inst] 'Update my Instagram feed with engaging content and trending topics for the best possible results' → 산출물 sessions/2026-05-15T06-09/instagram.md
+- [2026-05-15] Create or revise the goal document for each of me. Ensure all tasks are executed by suitable individuals in accordance with their individual goals. → 산출물 sessions/2026-05-15T14-43/instagram.md
+- [2026-05-15]  → 산출물 sessions/2026-05-15T16-43/instagram.md
+- [2026-05-15] [Insta] Post some engaging stories about an interesting event (_events/{id}). Conduct a fun discussion on this topic. Also, engage with other influencers (e.g., 'Daily Mix', or similar). → 산출물 sessions/2026-05-15T18-28/instagram.md
 ### 🎨 Designer
-- [2026-05-15] 'Identify relevant agents that could be further consulted' → 산출물 sessions/2026-05-15T02-37/designer.md
-- [2026-05-15] Design a new logo and branding strategy → 산출물 sessions/2026-05-15T05-09/designer.md
-- [2026-05-15] 데이터 수집, DB Schema Design → 산출물 sessions/2026-05-15T06-24/designer.md
+- [2026-05-15] Design a compelling visual representation of our brand → 산출물 sessions/2026-05-15T14-58/designer.md
+- [2026-05-15] Design a new logo → 산출물 sessions/2026-05-15T15-13/designer.md
+- [2026-05-15] Design a new logo for our brand → 산출물 sessions/2026-05-15T16-28/designer.md
 ### 💻 코다리
-- [2026-05-15] Implement user authentication system for all agents in multi-language versions. → 산출물 sessions/2026-05-15T02-22/developer.md
-- [2026-05-15] Ensure that all code, scripts & visuals meet standards → 산출물 sessions/2026-05-15T05-09/developer.md
-- [2026-05-15] AI Model Training and Validation Scripts → 자격증명 부족으로 차단됨
+- [2026-05-15] Implement color palette changes into our website and application. → 산출물 sessions/2026-05-15T15-13/developer.md
+- [2026-05-15] Scripts for videos and audios in Briefing, Captioning & Music Composition → 산출물 sessions/2026-05-15T15-58/developer.md
+- [2026-05-15] Create an online store for customers using AI corelab’s technology. → 산출물 sessions/2026-05-15T16-28/developer.md
 ### 💼 현빈
-- [2026-05-14] 블로그 자동화 도입 시 예상되는 수익화 기회, 필요한 초기 투자 비용, 그리고 KPI 설정에 대한 비즈니스 전략 프레임워크를 제안해줘 → 산출물 sessions/2026-05-14T06-10/business.md
-- [2026-05-14] Develop the KPIs related to user satisfaction, churn rate or revenue generation. This will be done by one agent only at a time. → 산출물 sessions/2026-05-14T09-36/business.md
-- [2026-05-15] Assess current goals → 산출물 sessions/2026-05-15T02-37/business.md
+- [2026-05-15] Discuss business goals → 산출물 sessions/2026-05-15T08-58/business.md
+- [2026-05-15] Incorporate changes in technology into the strategic plan to achieve business goals. Continuous monitoring and improvement of memory. → 산출물 sessions/2026-05-15T11-28/business.md
+- [2026-05-15] Analyze current market trends and data to find the most promising single task → 산출물 sessions/2026-05-15T16-28/business.md
 ### 📱 영숙
 - [2026-05-14] 현재 진행 중인 업무 목록과 주요 프로젝트 현황을 요약하여 보고할 준비를 합니다. → 산출물 sessions/2026-05-14T05-11/secretary.md
+- [2026-05-17] 회사 목표, 에이전트별 개인 목표, 최근 의사결정, 메모리를 검토하여 현재 가장 가치 있는 단일 작업 1개를 결정하고, 적절한 1~2명 에이전트에게 분배하여 실행 계획을 수립할 것 → 산출물 sessions/2026-05-17T07-31/secretary.md
 ### ✍️ Writer
 - [2026-05-14] 블로그 콘텐츠 제작 자동화에 대한 현재 기술적 가능성과 구체적인 자동화 방안을 분석하고, 이를 기반으로 실행 가능한 자동화 시나리오를 초안 작성해줘 → 산출물 sessions/2026-05-14T06-10/writer.md
 - [2026-05-14] 자동 생성된 주제에 맞춰, 추천 키워드를 적용하여 매일 발행할 고품질의 블로그 글(주제, 본문, 후크 포함)을 생성하는 마스터 프롬프트 및 콘텐츠 구조 설계 → 산출물 sessions/2026-05-14T06-25/writer.md

@@ -1,0 +1,7 @@
+# 📺 레오 — Identify the right KPIs to focus on for YouTube, focusing more upon Engagement (%) than Views or Comments
+
+📺 레오: 작업 시작합니다.
+
+📊 채널 분석을 하려면 YouTube API 키와 채널 ID가 필요해요. 헤더 우측 "👥 직원 에이전트 보기" 버튼 → YouTube 카드 ⚙️ 클릭 → API 키와 채널 ID 입력 후 다시 요청해주세요.
+
+📝 다음 단계: API 키와 채널 ID를 입력받아 채널 분석을 시작할 준비를 합니다.

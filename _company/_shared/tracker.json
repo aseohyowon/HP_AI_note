@@ -1,0 +1,38 @@
+{
+  "tasks": [
+    {
+      "id": "20260515112938-s54h",
+      "title": "블로그 자동화/프로그램 제작: 기존 블로그, 프로그램의 API 및 데이터베이스 구조, 디자인 방향을 정리하고 사용자에게 최적화된 결과물을 생성할 계획입니다.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-15T11:29:38.597Z",
+      "status": "done",
+      "sessionDir": "2026-05-15T11-28",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-15T11-28/_report.md\n- Designer: Make sure my designs are up to date with the latest trends and changes in techno\n- 코다리: Continue improving my code by testing it thoroughly before deploying updates\n- 현빈: Incorporate changes in technology into the strategic plan to achieve business go\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Make sure my designs are up to date with the latest trends and changes in technology. Ensure that I have enough resources (time, ",
+      "completedAt": "2026-05-15T11:31:47.857Z"
+    },
+    {
+      "id": "20260515112938-zgz6",
+      "title": "AI/MLops 환경 활용 (CNN 모델): 끊임없이 AI 모델을 개선하여 더욱 효율적인 시스템을 구축할 것입니다.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-15T11:29:38.653Z",
+      "status": "done",
+      "sessionDir": "2026-05-15T11-28",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-15T11-28/_report.md\n- Designer: Make sure my designs are up to date with the latest trends and changes in techno\n- 코다리: Continue improving my code by testing it thoroughly before deploying updates\n- 현빈: Incorporate changes in technology into the strategic plan to achieve business go\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Make sure my designs are up to date with the latest trends and changes in technology. Ensure that I have enough resources (time, ",
+      "completedAt": "2026-05-15T11:31:47.909Z"
+    }
+  ]
+}
